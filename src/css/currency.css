@@ -44,5 +44,13 @@ cursor:pointer => üzerine geline el işareti çıkmasını sağlar
     cursor: pointer;
 
 }
+@media screen and (max-width:600px ){
+    body{
+      font-size: 14px;
+     
+    }
+    
+}
+
 
   
